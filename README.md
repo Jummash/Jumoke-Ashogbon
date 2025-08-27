@@ -42,7 +42,7 @@ The data model was structured into a **star schema** to optimize reporting:
   - **Returns** → Tracks returned products linked to Orders
 
 📷 *Data Model Screenshot:*  
-![Data Model](Superstore_powerbi_project/Doc/data_model(2).png) 
+![Data Model](Superstore_powerbi_project/Doc/data_model.png) 
 
 
 ## 🖼️ Dashboards Overview  
@@ -75,8 +75,9 @@ The data model was structured into a **star schema** to optimize reporting:
 - Sub-categories like **Binders, Paper, and Chairs** dominate demand.  
 - Discount patterns show: **higher discounts = lower profit margin** (with Q3 as an exception)
 
-  ![Category & Sub-Category Insights](Superstore_powerbi_project/dashboards/category_Subcategory_analysis.png)  
- 
+  ![Category & Subcategory Insights](Superstore_powerbi_project/dashboards/category_Subcategory_analysis.png)
+
+
 
 
 ## 📈 Key Insights 
@@ -107,7 +108,7 @@ The data model was structured into a **star schema** to optimize reporting:
 - **Power BI**: Data modeling, DAX measures, interactive dashboards, slicers & filters.  
 - **Power Query**: Data cleaning and transformation.  
 - **Business Analysis**: KPI development, profit margin analysis, return rate insights.  
-- **Visualization Design**: Effective use of KPIs, maps, charts, and storytelling dashboards.  
+- **Visualization Design**: Effective use of KPIs, map, charts, and storytelling dashboards.  
 
 
 ## 📂 Repository Content  
