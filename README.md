@@ -75,7 +75,8 @@ The data model was structured into a **star schema** to optimize reporting:
 - Sub-categories like **Binders, Paper, and Chairs** dominate demand.  
 - Discount patterns show: **higher discounts = lower profit margin** (with Q3 as an exception)
 
-  ![Category & Subcategory Insights](Superstore_powerbi_project/dashboards/category_Subcategory_analysis.png)
+  ![Category & Subcategory Insights](Superstore_powerbi_project/dashboards/Category_analysis.png)
+
 
 
 
