@@ -42,7 +42,7 @@ The data model was structured into a **star schema** to optimize reporting:
   - **Returns** → Tracks returned products linked to Orders
 
 📷 *Data Model Screenshot:*  
-![Data Model](Superstore_powerbi_project/Doc/data_model.png) 
+![Data Model](Superstore_powerbi_project/Doc/data_model(2).png) 
 
 
 ## 🖼️ Dashboards Overview  
