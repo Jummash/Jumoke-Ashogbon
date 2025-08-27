@@ -50,7 +50,7 @@ The data model was structured into a **star schema** to optimize reporting:
 ### 1. **Overall Sales Performance**  
 - Quarterly sales increased progressively, with **Q4 as the strongest period**.  
 - **Consumer segment** leads in sales, followed by Corporate.  
-- **Technology** generated the highest revenue (~$836K), but **Furniture** underperformed in margins (~5%).  
+- **Technology** generated the highest revenue (~$836K), but **Furniture** underperformed in profit margin (~5%).  
 
 ![Sales Performance](Superstore_powerbi_project/dashboards/Sales_Performance_Dashboard.png)  
 
@@ -72,7 +72,7 @@ The data model was structured into a **star schema** to optimize reporting:
 ### 3. **Category & Sub-Category Insights**  
 - **Office Supplies & Technology** yield strong profit margins (~17%).  
 - **Furniture sells well but drags profits** due to high costs.  
-- Sub-categories like **Binders, Paper, and Chairs** dominate demand.  
+- Sub-categories like **Binders, Paper, and furnishings** dominate demand.  
 - Discount patterns show: **higher discounts = lower profit margin** (with Q3 as an exception)
 
   ![Category & Subcategory Insights](Superstore_powerbi_project/dashboards/Category_analysis.png)
