@@ -42,7 +42,7 @@ The data model was structured into a **star schema** to optimize reporting:
   - **Returns** → Tracks returned products linked to Orders
 
 📷 *Data Model Screenshot:*  
-![Data Model](Docs/data_model.png) 
+![Data Model](Superstore_powerbi_project/Doc/data_model.png) 
 
 
 ## 🖼️ Dashboards Overview  
@@ -52,7 +52,8 @@ The data model was structured into a **star schema** to optimize reporting:
 - **Consumer segment** leads in sales, followed by Corporate.  
 - **Technology** generated the highest revenue (~$836K), but **Furniture** underperformed in margins (~5%).  
 
-📷 *[Include screenshot here]*  
+![Sales Performance](Superstore_powerbi_project/dashboards/Sales_Performance_Dashboard.png)  
+
 
 ---
 
@@ -63,7 +64,8 @@ The data model was structured into a **star schema** to optimize reporting:
 - **Delivery times shorten with higher order volumes**, suggesting operational efficiency at scale.  
 - **Standard Class shipping** dominates demand & profitability.  
 
-📷 *[Include screenshot here]*  
+![Region & State Analysis](Superstore_powerbi_project/dashboards/Region_State_Analysis_Dashboard.png)  
+
 
 ---
 
@@ -71,9 +73,10 @@ The data model was structured into a **star schema** to optimize reporting:
 - **Office Supplies & Technology** yield strong profit margins (~17%).  
 - **Furniture sells well but drags profits** due to high costs.  
 - Sub-categories like **Binders, Paper, and Chairs** dominate demand.  
-- Discount patterns show: **higher discounts = lower profit margin** (with Q3 as an exception).  
+- Discount patterns show: **higher discounts = lower profit margin** (with Q3 as an exception)
 
-📷 *[Include screenshot here]*  
+  ![Category & Sub-Category Insights](Superstore_powerbi_project/dashboards/category_Subcategory_analysis.png)  
+ 
 
 
 ## 📈 Key Insights 
