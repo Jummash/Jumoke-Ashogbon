@@ -115,7 +115,7 @@ The data model was structured into a **star schema** to optimize reporting:
 ## 📂 Repository Content  
 - **Dashboards/** → Power BI dashboard screenshots  
 - **Data Model/** → Project data model image  
-- **[Documentation.md](./Documentation.md)** → Full analysis & detailed insights
+**[DOCUMENTATION.md](./DOCUMENTATION.md)** → Full analysis & detailed insights
 
 - ## 🏁 Conclusion  
 The dashboards highlight steady quarterly growth but a 9% YoY decline in sales and 18% YoY decline in profit.  
